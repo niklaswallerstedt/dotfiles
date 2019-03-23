@@ -1,3 +1,4 @@
+# Set proper language encodings
 export LANG="sv_SE.UTF-8"
 export LC_COLLATE="sv_SE.UTF-8"
 export LC_CTYPE="sv_SE.UTF-8"
