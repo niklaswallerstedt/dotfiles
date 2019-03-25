@@ -1,0 +1,6 @@
+alias ..="cd --"
+alias dc="docker-compose"
+alias ga="git add"
+alias gc="git commit"
+alias gcm="git commit -m"
+alias gs="git status"
