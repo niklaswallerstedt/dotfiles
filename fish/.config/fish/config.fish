@@ -1,3 +1,6 @@
+# Change locale messages to english
+set -x LC_MESSAGES en_US.UTF-8
+
 # Remove greeting
 set fish_greeting
 
