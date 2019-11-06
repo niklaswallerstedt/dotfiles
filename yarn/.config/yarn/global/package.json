@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "newman": "^4.5.5",
-    "serverless": "^1.56.1"
-  }
-}
