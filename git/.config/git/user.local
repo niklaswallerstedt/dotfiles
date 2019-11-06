@@ -1,0 +1,4 @@
+# Rename file to user to include in .gitconfig
+[user]
+	name = 
+	email = 
