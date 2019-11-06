@@ -1,3 +1,4 @@
 .DS_Store
 !README.md
 fish/.config/fish/fish_variables
+git/.config/git/user
