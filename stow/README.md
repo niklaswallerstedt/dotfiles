@@ -5,5 +5,3 @@
 
 ### Install notes
 **Important:** This should be the first package you install as it is responsible for filtering *README* files and subpackage file trees when you stow a package.
-
-Edit your `$HOME` path in [.stowrc](https://github.com/niklaswallerstedt/dotfiles/blob/master/stow/.stowrc).
