@@ -1,0 +1,37 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+brew "fish"
+brew "gnupg"
+brew "graphviz"
+brew "mas"
+brew "stow"
+brew "vim"
+brew "yarn"
+cask "alfred"
+cask "authy"
+cask "bankid"
+cask "cyberghost-vpn"
+cask "docker"
+cask "figma"
+cask "google-chrome"
+cask "iterm2"
+cask "java"
+cask "keybase"
+cask "microsoft-remote-desktop-beta"
+cask "microsoft-teams"
+cask "owncloud"
+cask "postman"
+cask "tunnelblick"
+cask "visual-studio-code"
+mas "Magnet", id: 441258766
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "OneDrive", id: 823766827
+mas "Shazam", id: 897118787
+mas "Slack", id: 803453959
+mas "Twitter", id: 1482454543
+mas "WhatsApp", id: 1147396723
