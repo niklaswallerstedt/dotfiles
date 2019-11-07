@@ -2,7 +2,3 @@
     path = ~/.config/git/user
 [core]
 	editor = vim
-[commit]
-	gpgsign = true
-[gpg]
-	program = /usr/local/bin/gpg
