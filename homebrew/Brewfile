@@ -11,6 +11,7 @@ brew "stow"
 brew "vim"
 brew "yarn"
 cask "alfred"
+cask "alt-c"
 cask "authy"
 cask "bankid"
 cask "cyberghost-vpn"
@@ -24,6 +25,7 @@ cask "microsoft-remote-desktop-beta"
 cask "microsoft-teams"
 cask "owncloud"
 cask "postman"
+cask "skype-for-business"
 cask "tunnelblick"
 cask "visual-studio-code"
 mas "Magnet", id: 441258766
@@ -36,3 +38,4 @@ mas "Shazam", id: 897118787
 mas "Slack", id: 803453959
 mas "Twitter", id: 1482454543
 mas "WhatsApp", id: 1147396723
+mas "Xcode", id: 497799835
